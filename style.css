@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-premium/tostadas-atun-deliciosos-sandwiches-comida-saludable-atun-enlatado-huevos-codorniz-pepino-cebolla-vista-superior-fondo-oscuro_114941-3471.jpg?w=2000);
+    background-size: cover;
+}
+
+.imagen-1 {
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WVUERN2UUZDXHPHOX6LCBCGAPQ.jpg);
+    background-size: cover;
+}
+
+.comidas-s {
+    color: yellow;
+    background-color: rgb(50, 205, 50);
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em;
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+}
+
+.button p {
+    color: rgb(50, 205, 50);
+}
+
+.text_1 {
+    color: yellow;
+    text-align: center;
+}
+
+td {
+    color: yellow;
+}
+
+.amarillo {
+    color: yellow;
+}
+
+.verde {
+    color: rgb(50, 205, 50);
+}
+
+.blanco {
+    color: white;
+}
+
+th {
+    color: white;
+}
